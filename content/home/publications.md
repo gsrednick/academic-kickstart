@@ -68,5 +68,4 @@ title = "Publications"
 +++
 
 {{% alert note %}}
-Please see my Google Scholar page for a list of my publications.
 {{% /alert %}}
