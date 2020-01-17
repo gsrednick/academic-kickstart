@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Please see my Google Scholar page for a list of my publications."
+# subtitle = "Please see my Google Scholar page for a list of my publications."
 # url: "https://scholar.google.com/citations?user=rH5Cht0AAAAJ&hl=en"
 
 [content]
@@ -68,5 +68,6 @@ subtitle = "Please see my Google Scholar page for a list of my publications."
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Please see my Google Scholar page for a list of my publications.
+url: https://scholar.google.com/citations?user=rH5Cht0AAAAJ&hl=en
 {{% /alert %}}
