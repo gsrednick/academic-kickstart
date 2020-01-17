@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lead Technician
+role: Research Technician
 url: ""
 
 # Organizations/Affiliations
@@ -49,9 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/griff_srednick
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=rH5Cht0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gsrednick
@@ -72,7 +72,9 @@ email: ""
 #- Visitors
 ---
 
-Griffin Srednick is the lead technician for CSU Northridge in the Mo'orea Coral Reef LTER program, funded by the National Science Foundation. His daily roles include collecting data, curating datasets, repairing damaged instruments, and general "wrenching". When he isn't "wrenching", Griffin studies community dynamics in temperate and tropical systems, focused on (1) how biogenic habitat structure (e.g., corals, kelp, etc.) influences the nature and magnitude of linkages among species, (2) how modification to habitat alters these dynamics, and (3) how these systems/networks react (i.e., resist during and recover after) to disturbance.
+Griffin Srednick is the lead technician for CSU Northridge in the Mo'orea Coral Reef LTER program, funded by the National Science Foundation. When he isn't maintaining resources and assets in the South Pacific, Griffin studies community dynamics in temperate and tropical systems, focused on (1) how biogenic habitat structure (e.g., corals, kelp, etc.) influences the nature and magnitude of linkages among species, (2) how modification to habitat alters these dynamics, and (3) how systems/networks react (i.e., resist during and recover after) to disturbance.
 
-Griffin's background is in fish ecology but he has his hands in many disciplines. When he isn't focused on pushing back the frontiers of science, he can be found among the waves and plucking among strings. 
+Griffin's background is in fish ecology but he has his hands in many disciplines. When he isn't focused on pushing back the frontiers of science, he can be found gliding among the waves and plucking among strings. 
+
+You can find more information about Griffin's current and past work below.
 
