@@ -67,7 +67,3 @@ title = "Publications"
  css_class = ""
 +++
 
-{{% alert note %}}
-Please see my Google Scholar page for a list of my publications.  
-url: "http://mcr.lternet.edu/"
-{{% /alert %}}
