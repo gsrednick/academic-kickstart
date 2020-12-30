@@ -22,10 +22,9 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-     name = "All"
-     tag = "*"
-     name = "Fish Ecology"
-     tag = "Fish Ecology
+  #  name = "All"
+  #   tag = "*"
+  #   name = "Fish Ecology"
 
   # [[content.filter_button]]
   #   name = "Deep Learning"
