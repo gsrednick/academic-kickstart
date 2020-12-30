@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Technician
+role: PhD Student
 url: ""
 
 # Organizations/Affiliations
 organizations:
-- name: Mo'orea Coral Reef NSF LTER
-  url: "http://mcr.lternet.edu/"
+- name: REEF Group
+  url: "https://reef.edu.au/"
 
-- name: California State University, Northridge
-  url: "https://www.csun.edu/"
+#- name: California State University, Northridge
+#  url: "https://www.csun.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Biology
+    institution: The University of Melbourne
+    year: Current
   - course: MS in Biology
     institution: California State University, Northridge
     year: 2018
@@ -60,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  #- icon: cv
  #  icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,9 +75,10 @@ email: ""
 #- Visitors
 ---
 
-Griffin Srednick is the lead technician for CSU Northridge in the Mo'orea Coral Reef LTER program, funded by the National Science Foundation. When he isn't maintaining resources and assets in the South Pacific, Griffin studies community dynamics in temperate and tropical systems, focused on (1) how biogenic habitat structure (e.g., corals, kelp, etc.) influences the nature and magnitude of linkages among species, (2) how modification to habitat alters these dynamics, and (3) how systems/networks react (i.e., resist during and recover after) to disturbance.
+Howdy! I am a PhD student in Dr. Stephen Swearer’s REEF laboratory group at The University of Melbourne. My interests lie in community ecology in temperate and tropical systems, focused on how spatial asynchrony in population and community dynamics influence stability and resilience of systems. Further, I am interested in applying these concepts to real-world scenarios that aim to mediate anthropogenic habitat fragmentation. 
 
-Griffin's background is in fish ecology but he has his hands in many disciplines. When he isn't focused on pushing back the frontiers of science, he can be found gliding among the waves and plucking among strings. 
+My previous work revolves around how biogenic habitat structure (e.g., corals, kelp, etc.) influences the distribution and interactions among species and how modification (e.g., invasion, disturbance, etc.) to habitat alters these dynamics. Please check out my Research page for more info!
 
-You can find more information about Griffin's current and past work below.
+My background is in fish ecology but I have my hands in many disciplines. When I'm not troubleshooting R-code or editing manuscripts, I can be found gliding among the waves and plucking among strings. 
+
 
