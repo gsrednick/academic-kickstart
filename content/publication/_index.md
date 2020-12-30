@@ -1,5 +1,5 @@
 ---
-title: Publications
+# title: Publications
 
 #caption: "Please see my Google Scholar page for a list of my publications."
 #url: "https://scholar.google.com/citations?user=rH5Cht0AAAAJ&hl=en"
