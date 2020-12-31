@@ -1,5 +1,5 @@
 ---
-title: "Macroalgal associational refuge from corallivory"
+title: "Associational refuge by macroalgae from corallivory"
 summary: "Does *Turbinaria ornata* provide context dependent refuge from corallivory?"
 tags:
 - Community Ecology
