@@ -1,6 +1,6 @@
 ---
 title: "SCoRe FOCE"
-summary: "Shallow coral reef free ocean carbon enrichment: Novel in situ ﬂumes to manipulate pCO<sub>2 on shallow tropical coral reef communities?"
+summary: "Shallow coral reef free ocean carbon enrichment: Novel in situ ﬂumes to manipulate pCO<sub>2  on shallow tropical coral reef communities?"
 tags:
 - Ocean Acidification
 date: "2020-01-25T00:00:00Z"
@@ -15,8 +15,8 @@ image:
 links:
 #- icon: twitter
 #  icon_pack: fab
-#name: CSUN Ocean Acidification
-#url: "http://crco2.org/"
+name: CSUN Ocean Acidification
+url: "http://crco2.org/"
 url_code: ""
 url_pdf: ""
 url_slides: ""

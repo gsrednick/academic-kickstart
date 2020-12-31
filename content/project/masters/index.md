@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: masters
 ---
 
 Marine macroalgae provide important habitat and resource subsidies for a wide variety of diverse species assemblages globally. In temperate regions, Kelp Forests, especially those constructed by *Macrocystis pyrifera*, are invaluable forms of habitat in otherwise three-dimensionally simple landscape. While our understanding of the importance of *Macrocystis* as an Ecosystem Engineer is fairly clear, there are still gaps in our understanding of what aspects of *Macrocystis* are important to the species that occupy the habitat it constructs. In a series of studies, we assessed whether the species identity of *Macrocystis* vs. the size or complexity of the structure it provides is more important for the fish assemblage that associates with it. We also used this as an opportunity to assess the potential impact of a change in habitat structure driven by increases in seawater temperature and the introduction of the non-native macroalga *Sargassum horneri* on the kelp forest-associated fish assemblage. 
