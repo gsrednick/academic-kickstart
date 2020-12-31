@@ -31,6 +31,8 @@ content:
     tag: Fish Ecology
   - name: Community Ecology
     tag: Community Ecology
+  - name: Ocean Acidification
+    tag: Ocean Acidification
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
