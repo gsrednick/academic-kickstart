@@ -15,8 +15,8 @@ image:
 links:
 #- icon: twitter
 #  icon_pack: fab
-name: CSUN Ocean Acidification
-url: "http://crco2.org/index.html"
+#name: CSUN Ocean Acidification
+#url: "http://crco2.org/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
