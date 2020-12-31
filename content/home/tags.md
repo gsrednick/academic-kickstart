@@ -1,7 +1,7 @@
 +++
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = flase  # This file represents a page section. Changed on 12/30/2020 
+headless = false  # This file represents a page section. Changed on 12/30/2020 
 active = false  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
