@@ -10,8 +10,12 @@ external_link: ""
 
 image:
   caption: Photo by G. Srednick
-  focal_point: Smart
-
+  focal_point: center
+  
+header:
+  image: "header.jpg"
+  caption: "G.Srednick"
+  
 links:
 #- icon: twitter
 #  icon_pack: fab
