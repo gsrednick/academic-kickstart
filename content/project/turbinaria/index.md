@@ -9,7 +9,7 @@ date: "2020-01-25T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by S.Doo
+  caption: Photo by G.Srednick
   focal_point: Smart
 
 links:
