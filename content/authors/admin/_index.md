@@ -75,9 +75,9 @@ email: ""
 #- Visitors
 ---
 
-Howdy! I am a PhD student in Dr. Stephen Swearer’s REEF laboratory group at the University of Melbourne. My interests lie in community ecology in temperate and tropical systems, focused on how spatial asynchrony in population and community dynamics influence system stability and resilience. Further, I am interested in applying these concepts to real-world scenarios that aim to mediate the impacts anthropogenic habitat fragmentation. 
+Howdy! I am a PhD student in Dr. Stephen Swearer’s REEF laboratory group at the University of Melbourne. My interests lie in temperate and tropical marine community ecology, focused on how spatial asynchrony in population and community dynamics influence system stability and resilience. Further, I am interested in applying these concepts to real-world scenarios that aim to mediate the impacts anthropogenic habitat fragmentation. 
 
-My previous work revolves around how biogenic habitat structure (e.g., corals, kelp, etc.) influences the distribution and interactions among species, and how modification (e.g., invasion, disturbance, etc.) to habitat alters these dynamics. Please check out my past publications and the Projects section below for more info!
+My previous work revolves around how biogenic habitat structure (e.g., seaweeds, kelps, corals) influences the distribution and interactions among species, and how modification to habitat (e.g., invasion, disturbance) alters these dynamics. Please check out my past publications and the Projects section below for more info!
 
 My background is in fish ecology but I have my hands in many disciplines. When I'm not troubleshooting R-code or editing manuscripts, I can be found gliding among waves and plucking among strings.
 
