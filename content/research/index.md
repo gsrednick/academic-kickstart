@@ -1,8 +1,8 @@
 ---
 title: "Research"  # Add a page title.
 type: "widget_page"
-active = true
-weight = 20
+active: true
+weight: 20
 
 #subtitle: "Asynchrony and stability in marine systems"
 #
