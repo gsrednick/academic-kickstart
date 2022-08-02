@@ -11,7 +11,10 @@ title = "Research"
 subtitle = "Asynchrony and stability in marine systems"
 
 
-
+image:
+  image: "kelp.jpeg"
+  caption: "G.Srednick"
+  preview_only: yes
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
