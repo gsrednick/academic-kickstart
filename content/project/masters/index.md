@@ -38,8 +38,12 @@ slides: masters
 ---
 ![](/img/my-image-name.jpg)
 
-Marine macroalgae provide important habitat and resource subsidies for a wide variety of diverse species assemblages globally. In temperate regions, Kelp Forests, especially those constructed by *Macrocystis pyrifera*, are invaluable forms of habitat in otherwise three-dimensionally simple landscape. While our understanding of the importance of *Macrocystis* as an Ecosystem Engineer is fairly clear, there are still gaps in our understanding of what aspects of *Macrocystis* are important to the species that occupy the habitat it constructs. In a series of studies, we assessed whether the species identity of *Macrocystis* vs. the size or complexity of the structure it provides is more important for the fish assemblage that associates with it. We also used this as an opportunity to assess the potential impact of a change in habitat structure driven by increases in seawater temperature and the introduction of the non-native macroalga *Sargassum horneri* on the kelp forest-associated fish assemblage. 
+Marine macroalgae provide important habitat and resource subsidies for a wide variety of diverse species assemblages globally. In temperate regions, Kelp Forests, especially those constructed by *Macrocystis pyrifera*, are invaluable forms of habitat in otherwise three-dimensionally simple landscape. While our understanding of the importance of *Macrocystis* as an Ecosystem Engineer is fairly clear, there are still gaps in our understanding of what aspects of *Macrocystis* are important to the species that occupy the habitat it constructs. In a series of experimental and observational studies, we assessed whether the species identity of *Macrocystis* vs. the size or complexity of the structure it provides is more important for the fish assemblage that associates with it. We also used this as an opportunity to assess the potential impact of a change in habitat structure driven by increases in seawater temperature and the introduction of the non-native macroalga *Sargassum horneri* on the kelp forest-associated fish assemblage. 
 
-In short, we found that fishes were more drawn to structural aspects of macroalgae rather than species identity, indicating that while *Macrocystis* is an important form of biogenic structure its importance to select fishes might be more linked to its size rather than specific biological interactions. 
+In short, we found that fishes were more drawn to structural aspects of macroalgae rather than species identity, indicating that while *Macrocystis* is an important form of biogenic structure its importance to select fishes might be more linked to its size rather than specific biological interactions.
 
 Check out our publications for more info!
+
+[Srednick & Steele 2022] (https://link.springer.com/article/10.1007/s00227-022-04135-7)
+
+[Srednick & Steele 2019] (https://www.int-res.com/abstracts/meps/v613/p139-149/)
