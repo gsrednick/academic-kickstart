@@ -44,6 +44,6 @@ In short, we found that fishes were more drawn to structural aspects of macroalg
 
 Check out our publications for more info!
 
-[Srednick & Steele 2022](https://link.springer.com/article/10.1007/s00227-022-04135-7)
+[Srednick & Steele 2022 Marine Biology](https://link.springer.com/article/10.1007/s00227-022-04135-7)
 
-[Srednick & Steele 2019](https://www.int-res.com/abstracts/meps/v613/p139-149/)
+[Srednick & Steele 2019 MEPS](https://www.int-res.com/abstracts/meps/v613/p139-149/)
