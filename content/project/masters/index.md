@@ -3,7 +3,7 @@ title: Effect of macroalgal structure on fish assemblages
 summary: Is macroalgal structure or species identity more important in structuring fish assemblages?
 tags:
 - Fish Ecology
-date: "2020-01-25T00:00:00Z"
+#date: "2020-01-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

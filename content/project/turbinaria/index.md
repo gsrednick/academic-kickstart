@@ -3,7 +3,7 @@ title: "Associational refuge by macroalgae from corallivory"
 summary: "Does *Turbinaria ornata* provide context dependent refuge from corallivory?"
 tags:
 - Community Ecology
-date: "2020-01-25T00:00:00Z"
+#date: "2020-01-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

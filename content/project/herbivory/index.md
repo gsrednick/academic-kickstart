@@ -3,7 +3,7 @@ title: "Habitat attributes mediate herbivory and influence community development
 summary: "Do habitat attributes modulate species interactions over space leading to variable community trajectories?"
 tags:
 - Community Ecology
-date: "2023-03-01T00:00:00Z"
+#date: "2023-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
