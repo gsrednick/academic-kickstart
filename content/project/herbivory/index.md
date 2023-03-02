@@ -35,9 +35,9 @@ Understanding the drivers and impacts of spatiotemporal variation in species abu
 
 In Mo'orea, French Polynesia we tested how habitat attributes influence the behavior of fish herbivores leading to variation in the trajectory of algal communities. We used settlement plates varying in structural complexity to simulate accessibility to herbivores and the presence of surrounding *Turbinaria ornata* stands to simulate detectability to herbivores. By creating mosaics of herbivore accessibility (i.e., tiles of mixed accessibility) we tested how habitat heterogeneity influences algal community trajectories at metacommunity scale. After 90 days, reducing herbivore accessibility reduced herbivory, increased algal richness, and led to variation in algal community trajecctories at metacommunity scale.
 
-![tiles](/tile_time.jpeg 'tiles')
+![tiles](images/tile_time.jpeg)
 
-![abstract](/herb_schematic.jpg 'abstract')
+![abstract](images/herb_schematic.jpg)
 
 The results of this work indicate that habitat attributes can be important influencers of consumer–resource interactions on coral reefs, which in turn can increase species diversity, promote species succession, and enhance stability in algal metacommunities.
 
