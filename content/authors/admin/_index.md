@@ -26,7 +26,7 @@ organizations:
 
 interests:
 - Community Ecology
-- Network Analysis
+- Ecological Networks
 - Resilience
 
 education:
@@ -37,7 +37,7 @@ education:
   - course: MS in Biology
     institution: California State University, Northridge
     year: 2018
-  - course: BS in Marine Science
+  - course: BS in Marine Science; Minor in Outdoor Education
     institution: California State University, Monterey Bay
     year: 2014
 
@@ -77,7 +77,7 @@ email: ""
 
 Howdy! I am a PhD candidate in Dr. Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. My interests lie in temperate and tropical marine community ecology, focused on how spatiotemporal asynchrony in population and community dynamics influence system stability and resilience. Further, I am interested in applying these concepts to real-world scenarios that aim to mediate the impacts of anthropogenic habitat fragmentation. 
 
-My past work revolves around how biogenic habitat structure (e.g., seaweeds, kelps, corals) influences the distribution and interactions among species, and how modification to habitat (e.g., invasion, disturbance) alters these dynamics. Please check out my past publications and the Projects section below for more info!
+My past work revolves around how biogenic habitat structure (e.g., seaweeds, kelps, corals) influences the distribution of species, the downstream effects on their interactions, and how modification to habitat (e.g., invasion, disturbance) alters these dynamics. Please check out my past publications and the Projects section below for more info!
 
 My background is in fish ecology but I have my hands in many disciplines. When I'm not troubleshooting R-code or editing manuscripts, I can be found gliding among waves and plucking among strings.
 
