@@ -37,8 +37,6 @@ In Mo'orea, French Polynesia we tested how habitat attributes influence the beha
 
 ![tiles](images/tile_time.jpeg)
 
-![abstract](images/herb_schematic.jpg)
-
 The results of this work indicate that habitat attributes can be important influencers of consumer–resource interactions on coral reefs, which in turn can increase species diversity, promote species succession, and enhance stability in algal metacommunities.
 
 We've got some more work coming down the pipeline on this! But in the meantime, be sure to check out our recent paper in [Ecology Articles](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3976)!
