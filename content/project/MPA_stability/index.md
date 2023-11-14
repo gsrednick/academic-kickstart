@@ -37,4 +37,4 @@ This work explores how a network of Marine Protected Areas (MPAs) implemented ac
 The outcome of this detailed approach suggests that MPAs and environmental variation influence temporal stability in community abundance at different spatial scales and through different mechanisms. Additionally, by decomposing synchrony into the species interactions that either result from, or contribute to patterns of species synchrony and temporal stability, we provide a novel assessment of how species interactions contribute to community stability at the ecosystem scale.
 
 
-Check it out in our new paper published in Conservation Biology []!
+Check it out in our [new paper published in Conservation Biology](https://doi.org/10.1111/cobi.14220)!
