@@ -13,6 +13,7 @@ header:
 **Srednick G**, Swearer SE. 2024. Effects of protection and temperature variation on temporal stability in a marine reserve network. [Conservation Biology](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14220)
 
 
+
 ***2023***
 
 
@@ -21,6 +22,7 @@ header:
 **Srednick G**, Davis K, Edmunds PJ. 2023. Asynchrony in coral community structure contributes to reef-scale community stability. [Scientific Reports 13:2314.](https://www.nature.com/articles/s41598-023-28482-7)
 
 **Srednick G**, Edmunds PJ. 2023. Corallivory on small Porites colonies increases with coral colony size but is reduced by macroalgal associational refuge. [Coral Reefs 42:1233–1237.](https://link.springer.com/article/10.1007/s00338-023-02424-1)
+
 
 
 ***2019-2022***
