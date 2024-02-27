@@ -6,5 +6,4 @@ header:
   caption: 
   image: squid.JPG
   
-  ---
 ---
