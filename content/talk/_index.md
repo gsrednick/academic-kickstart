@@ -8,8 +8,7 @@ header:
 
 ---
 
-![kelp](/kelp.png 'kelp')
-<img src="/kelp.png" alt="kelp" title="kelp" style="width: 500px; height: auto;">
+<img src="/kelp.png" alt="kelp" title="kelp" style="width: 1000px; height: auto;">
 
 <div style="text-align: center;">
 
@@ -34,6 +33,6 @@ The broad goals of this work are to (1) determine attributes that contribute to 
 Habitat attributes (e.g., forest density, substrate rugosity) can be important drivers of community structure and function. Some of my past work has evaluated how [biogenic habitat structure, rather than species identity](https://griffinsrednick.com/project/masters/) can influence fish community composition, as well as how [abiotic structure can mediate consumer-resource dynamics leading to variation in community trajectories](https://griffinsrednick.com/project/herbivory/). However, these effects are likely dependent on a variety of exogenous (e.g., temperature variation) and endogenous (e.g., population density-dependence, food availability) factors, perhaps leading to non-linear effects of structural attributes on species interactions. This area of research is very exciting with many recent contributions from other marine researchers! More to come!
 
 
-<img src="/herb_schematic.jpg" alt="herb" title="herb" style="width: 500px; height: auto;">
+<img src="/herb_schematic.jpg" alt="herb" title="herb" style="width: 1000px; height: auto;">
 
 ---
