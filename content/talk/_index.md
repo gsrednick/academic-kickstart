@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: Research
 
-subtitle: "Asynchrony and stability in marine systems"
+subtitle: Asynchrony and stability in marine systems
 
 
 ![kelp](/kelp.png 'kelp')
