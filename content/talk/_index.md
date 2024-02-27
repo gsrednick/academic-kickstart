@@ -22,7 +22,7 @@ Understanding the drivers and impacts of spatiotemporal variation in species abu
 The broad goals of this work are to (1) determine attributes that contribute to species and spatial asynchrony at multiple organizational and spatial scales in natural systems, (2) explore variation in synchrony between competitive versus consumptive species interactions, (3) operationalize information about the drivers of stability in natural systems for restoration and conservation practices.
 
 
-
+---
 
 
 <div style="text-align: center;">
