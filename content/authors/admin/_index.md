@@ -75,11 +75,5 @@ email: ""
 #- Visitors
 ---
 
-Howdy! I am a PhD candidate in Dr. Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. My interests lie in temperate and tropical marine community ecology, focused on how spatiotemporal asynchrony in population and community dynamics influence system stability and resilience. Further, I am interested in applying these concepts to real-world scenarios that aim to mediate the impacts of anthropogenic habitat fragmentation. 
-
-My past work revolves around how biogenic habitat structure (e.g., seaweeds, kelps, corals) influences the distribution of species, the downstream effects on their interactions, and how modification to habitat (e.g., invasion, disturbance) alters these dynamics. Please check out my past publications and the Projects section below for more info!
-
-My background is in fish ecology but I have my hands in many disciplines. When I'm not troubleshooting R-code or editing manuscripts, I can be found gliding among waves and plucking among strings.
-
-I hope you enjoy reading about some of my current and past work. Please feel free to contact me if you have questions, thoughts, or great papers that you think I should read!
+Greetings! I am a PhD candidate in Dr. Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. I am a Community Ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study the abiotic (e.g., environmental variation) and biotic conditions (e.g., species interactions) that contribute to ecological state and trajectories.
 
