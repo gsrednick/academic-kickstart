@@ -8,15 +8,19 @@ header:
 
 ---
 <div style="text-align: center;">
+
 ***2024***
+
 </div>
 
 **Srednick G**, Swearer SE. 2024. Effects of protection and temperature variation on temporal stability in a marine reserve network. [Conservation Biology](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14220)
 
 
+<div style="text-align: center;">
 
 ***2023***
 
+</div>
 
 **Srednick G**, Cohen A, Diehl O, Tyler K, Swearer SE. 2023. Habitat attributes mediate herbivory and influence community development in algal metacommunities. [Ecology:e3976.](https://doi.org/10.1002/ecy.3976)
 
@@ -25,8 +29,11 @@ header:
 **Srednick G**, Edmunds PJ. 2023. Corallivory on small Porites colonies increases with coral colony size but is reduced by macroalgal associational refuge. [Coral Reefs 42:1233–1237.](https://link.springer.com/article/10.1007/s00338-023-02424-1)
 
 
+<div style="text-align: center;">
 
 ***2019-2022***
+
+</div>
 
 **Srednick GS**, Steele MA. 2022. Macroalgal physical structure predicts variation in some attributes of temperate fish assemblages better than macroalgal species composition. [Marine Biology 169:147.](https://link.springer.com/article/10.1007/s00227-022-04135-7)
 
