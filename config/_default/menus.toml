@@ -15,19 +15,18 @@
 
 [[main]]
   name = "Research"
-  url = "research/"
+  url = "/research/"
   weight = 30
 
 [[main]]
   name = "Projects"
-  url = "projects/"
+  url = "/projects/"
   weight = 40
 
 [[main]]
   name = "Publications"
   #url = "https://scholar.google.com/citations?user=rH5Cht0AAAAJ&hl=en"
-  url = "publications/"
-
+  url = "/publications/"
   weight = 50
 
 [[main]]
