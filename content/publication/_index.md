@@ -7,8 +7,9 @@ header:
   image: squid.JPG
 
 ---
-
+<div style="text-align: center;">
 ***2024***
+</div>
 
 **Srednick G**, Swearer SE. 2024. Effects of protection and temperature variation on temporal stability in a marine reserve network. [Conservation Biology](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14220)
 
