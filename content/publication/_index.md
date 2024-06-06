@@ -9,9 +9,11 @@ header:
 ---
 <div style="text-align: center;">
 
-***2024***
+**2024**
 
 </div>
+
+**Srednick, G**, and SE Swearer. 2024. Understanding diversity–synchrony–stability relationships in multitrophic communities. [Nature Ecology & Evolution:1–11.](https://www.nature.com/articles/s41559-024-02419-3)
 
 **Srednick G**, Swearer SE. 2024. Effects of protection and temperature variation on temporal stability in a marine reserve network. [Conservation Biology](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14220)
 
