@@ -75,5 +75,5 @@ email: ""
 #- Visitors
 ---
 
-I am a Community Ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study the abiotic (e.g., environmental variation) and biotic conditions (e.g., species interactions) that contribute to ecological state and trajectories. I am currently a PhD candidate in Professor Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. 
+I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. I am currently a PhD candidate in Professor Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. 
 
