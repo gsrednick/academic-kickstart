@@ -2,9 +2,9 @@
 title: Publications
 
 # Optional header image (relative to `assets/media/` folder).
-header:
-  caption: 
-  image: squid.JPG
+#header:
+#  caption: 
+#  image: squid.JPG
 
 ---
 <div style="text-align: center;">
