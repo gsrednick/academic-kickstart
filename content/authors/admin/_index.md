@@ -75,6 +75,9 @@ email: ""
 #- Visitors
 ---
 
-I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. I am currently a PhD candidate in Professor Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. In fall 2024 I will be starting as a National Science Foundation Ocean Sciences Postdoctoral Research Fellow at Stanford University with Professors [Kristen Davis](https://faculty.sites.uci.edu/davis/) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work will be focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia.
+I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. I am currently a PhD candidate in Professor Stephen Swearer’s [REEF](https://reef.edu.au//) laboratory group and [NCCC](https://nccc.edu.au/) at the University of Melbourne. 
+
+
+In fall 2024 I will be starting as a National Science Foundation Ocean Sciences Postdoctoral Research Fellow at Stanford University with Professors [Kristen Davis](https://faculty.sites.uci.edu/davis/) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work will be focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia.
 
 
