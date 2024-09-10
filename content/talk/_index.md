@@ -1,18 +1,11 @@
 ---
 title: Research
 
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: 
-  image: squid.JPG
-
-
-
 ---
 
 
 
-<img src="/kelp.png" alt="kelp" title="kelp" style="width: 800px; height: auto;">
+<img src="/kelp.jpg" alt="kelp" title="kelp" style="width: 800px; height: auto;">
 
 <div style="text-align: center;">
 
