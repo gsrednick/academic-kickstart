@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Biology
     institution: The University of Melbourne
-    year: Current
+    year: 2024
   - course: MS in Biology
     institution: California State University, Northridge
     year: 2018
