@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow
 url: ""
 
 # Organizations/Affiliations
 organizations:
-- name: REEF Group
-  url: "https://reef.edu.au/"
+- name: Coastal Dynamics Laboratory
+  url: "https://faculty.sites.uci.edu/davis/"
 
-- name: University of Melbourne
-#  url: "https://www.csun.edu/"
+- name: Oceans - Stanford University
+#  url: "https://oceans.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
