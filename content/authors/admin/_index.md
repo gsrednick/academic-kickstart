@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Griffin Srednick
+name: Griffin Srednick, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -19,7 +19,7 @@ organizations:
   url: "https://coastaldynamicslab.sites.stanford.edu/"
 
 - name: Oceans - Stanford University
-#  url: "https://oceans.stanford.edu/"
+  url: "https://oceans.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -77,6 +77,6 @@ email: ""
 
 I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. 
 
-I am currently National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://faculty.sites.uci.edu/davis/) at Stanford University with Professors [Kristen Davis](https://coastaldynamicslab.sites.stanford.edu/people/kristen-davis) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
+I am currently National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://coastaldynamicslab.sites.stanford.edu/) at Stanford University with Professors [Kristen Davis](https://coastaldynamicslab.sites.stanford.edu/people/kristen-davis) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
 
 
