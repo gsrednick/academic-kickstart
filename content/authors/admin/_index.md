@@ -16,7 +16,7 @@ url: ""
 # Organizations/Affiliations
 organizations:
 - name: Coastal Dynamics Laboratory
-  url: "https://faculty.sites.uci.edu/davis/"
+  url: "https://coastaldynamicslab.sites.stanford.edu/"
 
 - name: Oceans - Stanford University
 #  url: "https://oceans.stanford.edu/"
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biology
+  - course: PhD in BioScience
     institution: The University of Melbourne
     year: 2024
   - course: MS in Biology
@@ -77,6 +77,6 @@ email: ""
 
 I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. 
 
-I am currently National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://faculty.sites.uci.edu/davis/) at Stanford University with Professors [Kristen Davis](https://faculty.sites.uci.edu/davis/) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
+I am currently National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://faculty.sites.uci.edu/davis/) at Stanford University with Professors [Kristen Davis](https://coastaldynamicslab.sites.stanford.edu/people/kristen-davis) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
 
 
