@@ -28,10 +28,12 @@ interests:
 - Community Ecology
 - Ecological Networks
 - Resilience
+- Physical–Biological Interactions in Marine Ecosystems
+
 
 education:
   courses:
-  - course: PhD in BioScience
+  - course: PhD in Science
     institution: The University of Melbourne
     year: 2024
   - course: MS in Biology
@@ -75,8 +77,8 @@ email: ""
 #- Visitors
 ---
 
-I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I study how the dynamic interplay between environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems. 
+I am a community ecologist broadly focused on the spatiotemporal dynamics of marine communities. Specifically, I focus on 'unraveling' the tangled web of how environmental conditions and interactions between species contribute to ecological state and trajectories in marine ecosystems.
 
-I am currently National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://coastaldynamicslab.sites.stanford.edu/) at Stanford University with Professors [Kristen Davis](https://coastaldynamicslab.sites.stanford.edu/people/kristen-davis) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
+I am currently a National Science Foundation Ocean Sciences Postdoctoral Research Fellow in the [Coastal Dynamics Laboratory](https://coastaldynamicslab.sites.stanford.edu/) at Stanford University with Professors [Kristen Davis](https://coastaldynamicslab.sites.stanford.edu/people/kristen-davis) and [Peter Edmunds](https://mcr.lternet.edu/people/peter-edmunds). My postdoctoral work is focused on evaluating the ecological and hydrodynamic mechanisms underlying emergent patterns of coral reef recovery in Moorea, French Polynesia. This work leverages data and efforts from the [Moorea Coral Reef Long-Term Ecological Research Program](https://mcr.lternet.edu/).
 
 
